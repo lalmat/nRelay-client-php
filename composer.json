@@ -1,0 +1,12 @@
+{
+  "name": "lalmat/nrelay-client-php",
+  "version": "0.7.0",
+  "autoload": {
+    "psr-0": {
+      "\\nRelay": "../src/"
+    }
+  },
+  "require": {
+    "wisembly/elephant.io": "~3.0"
+  }
+}
